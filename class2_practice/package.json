@@ -1,0 +1,13 @@
+{
+  "name": "class2_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./class2_practice_test.sh",
+    "t": "npm start & sleep 2 && ./class2_practice_test.sh & wait"
+  },
+  "author": "",
+  "license": "ISC"
+}
